@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harichillin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Database
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/harichillin/leetcode/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -31,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harichillin/leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
