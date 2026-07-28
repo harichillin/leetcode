@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harichillin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/harichillin/leetcode/tree/master/0189-rotate-array) |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Database
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/harichillin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/harichillin/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/harichillin/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/harichillin/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harichillin/leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
