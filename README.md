@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harichillin/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harichillin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harichillin/leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/harichillin/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/harichillin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harichillin/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harichillin/leetcode/tree/master/0054-spiral-matrix) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harichillin/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/harichillin/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
