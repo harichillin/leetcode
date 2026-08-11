@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/harichillin/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harichillin/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harichillin/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/harichillin/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harichillin/leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/harichillin/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
+| [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/harichillin/leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harichillin/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+| [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
 ## String
 |  |
 | ------- |
