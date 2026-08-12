@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harichillin/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harichillin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3731-find-missing-elements](https://github.com/harichillin/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harichillin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/harichillin/leetcode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harichillin/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Database
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/harichillin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/harichillin/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/harichillin/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harichillin/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/harichillin/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
