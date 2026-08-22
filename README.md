@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harichillin/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/harichillin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/harichillin/leetcode/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/harichillin/leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/harichillin/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/harichillin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harichillin/leetcode/tree/master/0054-spiral-matrix) |
+| [0212-word-search-ii](https://github.com/harichillin/leetcode/tree/master/0212-word-search-ii) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harichillin/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/harichillin/leetcode/tree/master/0006-zigzag-conversion) |
+| [0212-word-search-ii](https://github.com/harichillin/leetcode/tree/master/0212-word-search-ii) |
 | [0392-is-subsequence](https://github.com/harichillin/leetcode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/harichillin/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harichillin/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harichillin/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/harichillin/leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/harichillin/leetcode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/harichillin/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
