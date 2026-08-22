@@ -7,7 +7,7 @@ public:
     TrieNode() {
         word = "";
         for (int i = 0; i < 26; i++) {
-            chars[i] = nullptr;
+            chars[i] = NULL;
         }
     }
 };
@@ -20,7 +20,7 @@ private:
         TrieNode* curr = root;
         for (char ch : word) {
             int idx = ch - 'a';
-            if (curr->chars[idx] == nullptr) {
+            if (curr->chars[idx] == NULL) {
                 curr->chars[idx] = new TrieNode();
             }
             curr = curr->chars[idx];
@@ -32,7 +32,7 @@ private:
         char ch = board[row][col];
         int chidx = ch - 'a';
 
-        if (ch == '#' || curr->chars[chidx] == nullptr) {
+        if (ch == '#' || curr->chars[chidx] == NULL) {
             return;
         }
 
