@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harichillin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harichillin/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harichillin/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harichillin/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harichillin/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harichillin/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/harichillin/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harichillin/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
