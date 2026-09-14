@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harichillin/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harichillin/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harichillin/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harichillin/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
