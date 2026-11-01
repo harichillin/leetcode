@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/harichillin/leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/harichillin/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/harichillin/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/harichillin/leetcode/tree/master/0262-trips-and-users) |
 ## Array
 |  |
 | ------- |
