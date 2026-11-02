@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/harichillin/leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harichillin/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harichillin/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/harichillin/leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/harichillin/leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harichillin/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harichillin/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/harichillin/leetcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harichillin/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harichillin/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/harichillin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harichillin/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2784-check-if-array-is-good](https://github.com/harichillin/leetcode/tree/master/2784-check-if-array-is-good) |
