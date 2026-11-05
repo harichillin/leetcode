@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harichillin/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harichillin/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harichillin/leetcode/tree/master/2540-minimum-common-value) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harichillin/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Database
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0867-transpose-matrix](https://github.com/harichillin/leetcode/tree/master/0867-transpose-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harichillin/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harichillin/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harichillin/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harichillin/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harichillin/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harichillin/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harichillin/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/harichillin/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harichillin/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/harichillin/leetcode/tree/master/2974-minimum-number-game) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harichillin/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/harichillin/leetcode/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/harichillin/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harichillin/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/harichillin/leetcode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
